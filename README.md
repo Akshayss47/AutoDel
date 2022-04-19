@@ -14,6 +14,9 @@ Delete group messages after a specific time
 - Bot is admin in Groups with delete permission
 - Account used to create SESSION is a member in Groups
 
+
+[![deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akshayss47/AutoDel)
+
 ## Deploy in Heroku
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
